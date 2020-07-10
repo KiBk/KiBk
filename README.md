@@ -20,8 +20,6 @@ I create blog posts and open source packages mainly about python and data engine
 </p>
 -->
 
-Hey there 👋,
-
 <!--
 **KiBk/KiBk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
